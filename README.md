@@ -39,7 +39,7 @@ Go about your review under the assumption that the decisions were made for a rea
 
 Be pragmatic, ask for context, don’t filibuster, don’t block on style not explicitly covered in DO’s style guides.
 
-Code, configurations, architecture, platforms, frameworks will need to be changed. Fight for your way if you think it’s right, but not only to be right
+Code, configurations, architecture, platforms, frameworks will need to be changed. Fight for your way if you think it’s right, but not only to be right.
 
 ## Enactment
 If somebody requests that you stop a certain behavior (even if said behavior is not explicitly covered in this document), you are expected to comply immediately. Don't get defensive; even if you didn't intend to offend, accept responsibility, consider apologizing, and work with the other party to fix the situation. A mistake is a chance to learn and/or teach. Use the opportunity to better the company and team.
