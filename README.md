@@ -19,16 +19,24 @@ Subtle -isms, also called microaggressions<sup>[2](#footnotes)</sup>, are small 
 
 ## Time
 Be respectful of other people; their time, their location, and other considerations of a distributed team.
+
 Keep your calendar up-to-date, be on time to meetings, decline meetings you don’t plan to attend.
+
 Denote [working hours](https://support.google.com/calendar/answer/83117?hl=en#working_hours) in Calendar if you want people to constrain your meetings to them.
+
 Resist the temptation to have local-only meetings when remote teammates should be involved - take them to Slack, Hangouts, etc. as appropriate.
 
 ## Giving and Receiving Feedback
 Give constructive, not critical feedback<sup>[3](#footnotes)</sup>. Feedback is negatively critical when it surfaces something wrong with someone or something they produced, especially without any mention of ways to make their behavior or their product better. Critical feedback on work often looks like "you don't write enough tests" or "your code quality isn't good enough". Personal criticism can be more severe and often looks like "you should be less judgemental" or "you are a burden because you ask too many questions”. Constructive feedback is more about how a person can can do better rather than what they are doing wrong. If you want someone to do something better, you should tell them what better looks like. Ask a question to get a discussion rolling, to gain context, and then if you see room for improvement give declarative feedback to that effect. This creates an environment where people understand what success looks like instead of just feel like they are unsuccessful.
+
 Code, configurations, and their reviews are also mechanisms for communication. Just as you shouldn't interact with people poorly in person, do not interact poorly through code or code review.
+
 You are not your products. Technical critiques are integral, and should be hard on the product, not on the producer. While it is important to care about your work and producing the best thing you can, this can make review difficult. It is important to realize that it’s better to find errors in review than in production and recognize that your work fits into a larger whole.
+
 Go about your review under the assumption that the decisions were made for a reason, not in a vacuum. Ask about circumstances if you’re confused.
+
 Be pragmatic, ask for context, don’t filibuster, don’t block on style not explicitly covered in DO’s style guides.
+
 Code, configurations, architecture, platforms, frameworks will need to be changed. Fight for your way if you think it’s right, but not only to be right
 
 ## Enactment
