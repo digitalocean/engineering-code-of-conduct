@@ -1,3 +1,5 @@
+For some context on why we think having a code of conduct for our organization is important and the process surrounding its development, check out [this introduction](./introduction.md).
+
 # DigitalOcean's Engineering Code of Conduct
 
 ## Why have a Code of Conduct?
