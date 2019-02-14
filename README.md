@@ -44,7 +44,7 @@ Code, configurations, architecture, platforms, frameworks will need to be change
 ## Enactment
 If somebody requests that you stop a certain behavior (even if said behavior is not explicitly covered in this document), you are expected to comply immediately. Don't get defensive; even if you didn't intend to offend, accept responsibility, consider apologizing, and work with the other party to fix the situation. A mistake is a chance to learn and/or teach. Use the opportunity to better the company and team.
 
-Enforcement of the Code of Conduct is essential. If there is no enforcement, then the Code of Conduct becomes a feel-good document without value. Individuals should feel empowered to call out violations publicly or privately. The Code of Conduct Guild is available to help moderate, address concerns, and solve violations. For repeated, more severe, or unresolved violations employees should reach upward in their management chain for resolution.
+Enforcement of the Code of Conduct is essential. If there is no enforcement, then the Code of Conduct becomes a feel-good document without value. Individuals should feel empowered to call out violations publicly or privately. The Code of Conduct Guide is available to help moderate, address concerns, and solve violations. For repeated, more severe, or unresolved violations employees should reach upward in their management chain for resolution.
 
 ## Footnotes
 1. These Social Rules are borrowed from the [Recurse Center](https://www.recurse.com/manual#sec-environment) and included here for completeness.
