@@ -33,7 +33,7 @@ Give constructive, not critical feedback<sup>[3](#footnotes)</sup>. Feedback is 
 
 Code, configurations, and their reviews are also mechanisms for communication. Just as you shouldn't interact with people poorly in person, do not interact poorly through code or code review.
 
-You are not your products. Technical critiques are integral, and should be hard on the product, not on the producer. While it is important to care about your work and producing the best thing you can, this can make review difficult. It is important to realize that it’s better to find errors in review than in production and recognize that your work fits into a larger whole.
+You are not your products. Technical critiques are integral and should be hard on the product, not on the producer. While it is important to care about your work and producing the best thing you can, this can make review difficult. It is important to realize that it’s better to find errors in a review than in production and recognize that your work fits into a larger whole.
 
 Go about your review under the assumption that the decisions were made for a reason, not in a vacuum. Ask about circumstances if you’re confused.
 
