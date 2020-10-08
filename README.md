@@ -2,8 +2,34 @@ For some context on why we think having a code of conduct for our organization i
 
 # DigitalOcean's Engineering Code of Conduct
 
+At DigitalOcean we strive to be a values driven company.
+
+First lets look at those values
+
+## DigitalOcean's Values
+
+### Our **community** is bigger than just us
+We foster the global developer and entrepreneurial communities because they are the source of our ideas and innovation and essential to our sustained growth.<br>
+
+### **Simplicity** in all we DO
+
+We make decisions that eliminate complexity and obstacles to our moving fast, so we enable our Customers to focus on testing their Ideas, building their businesses, and realizing their dreams.<br>
+
+### We **speak up** when we have something to say and **listen** when others DO
+
+We create an environment where we are transparent and respectful so we are confident in bringing our best selves on behalf of our Customers and each other, every day.<br>
+
+### We are **accountable** to deliver on our commitments
+
+Earning trust every day is our core value proposition to our Customers and to each other. We must be trustworthy, because the opportunity to serve our Customers is larger than any one of us.<br>
+
+### **Love** is at our core
+
+Underlying everything we do, love for our Customers
+and our DO is essential to realizing our fullest potential.<br>
+
 ## Why have a Code of Conduct?
-This Code of Conduct is designed to help all of us build a pleasant, productive, and fearless community. The purpose of the Code of Conduct is not to burden the team with a bunch of needless rules, or to give us a punishment mechanism for people "being bad," or even to correct things that have been wrong in the past. We are striving to make our engineering team a great group of people to work with, especially for those people who have faced more adverse working environments in the past.
+This Ccode of Conduct is designed to help provide a translation between the values we aspire to and the mechanics of how to achive them in practice. The Code of Conduct is designed to help all of us build a pleasant, productive, and fearless community. The purpose of the Code of Conduct is not to burden the team with a bunch of needless rules, or to give us a punishment mechanism for people "being bad," or even to correct things that have been wrong in the past. We are striving to make our engineering team a great group of people to work with, especially for those people who have faced more adverse working environments in the past.
 
 ## Social Rules <sup>[1](#footnotes)</sup>
 
@@ -29,6 +55,10 @@ Denote [working hours](https://support.google.com/calendar/answer/83117?hl=en#wo
 Resist the temptation to have local-only meetings when remote teammates should be involved - take them to Slack, Hangouts, etc. as appropriate.
 
 ## Giving and Receiving Feedback
+
+### Assume positive intent
+All too often the first reaction to feedback or questions can be negative based on the assumption that the intent of the feedback was to critize or derail your idea. Maybe the phrasing wasn't ideal but was the feedback valuable when you assume they are trying to help make you or your work better?
+
 Give constructive, not critical feedback<sup>[3](#footnotes)</sup>. Feedback is negatively critical when it surfaces something wrong with someone or something they produced, especially without any mention of ways to make their behavior or their product better. Critical feedback on work often looks like "you don't write enough tests" or "your code quality isn't good enough". Personal criticism can be more severe and often looks like "you should be less judgemental" or "you are a burden because you ask too many questions”. Constructive feedback is more about how a person can do better rather than what they are doing wrong. If you want someone to do something better, you should tell them what better looks like. Ask a question to get a discussion rolling, to gain context, and then if you see room for improvement give declarative feedback to that effect. This creates an environment where people understand what success looks like instead of just feeling like they are unsuccessful.
 
 Code, configurations, and their reviews are also mechanisms for communication. Just as you shouldn't interact with people poorly in person, do not interact poorly through code or code review.
@@ -44,7 +74,7 @@ Code, configurations, architecture, platforms, frameworks will need to be change
 ## Enactment
 If somebody requests that you stop a certain behavior (even if said behavior is not explicitly covered in this document), you are expected to comply immediately. Don't get defensive; even if you didn't intend to offend, accept responsibility, consider apologizing, and work with the other party to fix the situation. A mistake is a chance to learn and/or teach. Use the opportunity to better the company and team.
 
-Enforcement of the Code of Conduct is essential. If there is no enforcement, then the Code of Conduct becomes a feel-good document without value. Individuals should feel empowered to call out violations publicly or privately. The Code of Conduct Guild is available to help moderate, address concerns, and solve violations. For repeated, more severe, or unresolved violations employees should reach upward in their management chain for resolution.
+We want everyone to live our values and for that to have meaning beyond the words, holding people accountable for following the Code of Conduct is essential. If there is no enforcement, then the Code of Conduct becomes a feel-good document without value. Individuals should feel empowered to call out violations publicly or privately. For repeated, more severe, or unresolved violations employees should reach upward in their management chain for resolution.
 
 ## Footnotes
 1. These Social Rules are borrowed from the [Recurse Center](https://www.recurse.com/manual#sec-environment) and included here for completeness.
