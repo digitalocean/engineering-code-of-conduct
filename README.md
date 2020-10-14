@@ -2,9 +2,7 @@ For some context on why we think having a code of conduct for our organization i
 
 # DigitalOcean's Engineering Code of Conduct
 
-At DigitalOcean we strive to be a values driven company.
-
-First lets look at those values
+At DigitalOcean we strive to be a values-driven company.
 
 ## DigitalOcean's Values
 
@@ -29,7 +27,7 @@ Underlying everything we do, love for our Customers
 and our DO is essential to realizing our fullest potential.<br>
 
 ## Why have a Code of Conduct?
-This Ccode of Conduct is designed to help provide a translation between the values we aspire to and the mechanics of how to achive them in practice. The Code of Conduct is designed to help all of us build a pleasant, productive, and fearless community. The purpose of the Code of Conduct is not to burden the team with a bunch of needless rules, or to give us a punishment mechanism for people "being bad," or even to correct things that have been wrong in the past. We are striving to make our engineering team a great group of people to work with, especially for those people who have faced more adverse working environments in the past.
+This Code of Conduct is designed to help provide a translation between the values we aspire to and the mechanics of how to achieve them in practice. The Code of Conduct is designed to help all of us build a pleasant, productive, and fearless community. The purpose of the Code of Conduct is not to burden the team with a bunch of needless rules, or to give us a punishment mechanism for people "being bad," or even to correct things that have been wrong in the past. We are striving to make our engineering team a great group of people to work with, especially for those people who have faced more adverse working environments in the past.
 
 ## Social Rules <sup>[1](#footnotes)</sup>
 
@@ -57,7 +55,7 @@ Resist the temptation to have local-only meetings when remote teammates should b
 ## Giving and Receiving Feedback
 
 ### Assume positive intent
-All too often the first reaction to feedback or questions can be negative based on the assumption that the intent of the feedback was to critize or derail your idea. Maybe the phrasing wasn't ideal but was the feedback valuable when you assume they are trying to help make you or your work better?
+All too often the first reaction to feedback or questions can be negative based on the assumption that the intent of the feedback was to criticize or derail your idea. Maybe the phrasing wasn't ideal but was the feedback valuable when you assume they are trying to help make you or your work better?
 
 Give constructive, not critical feedback<sup>[3](#footnotes)</sup>. Feedback is negatively critical when it surfaces something wrong with someone or something they produced, especially without any mention of ways to make their behavior or their product better. Critical feedback on work often looks like "you don't write enough tests" or "your code quality isn't good enough". Personal criticism can be more severe and often looks like "you should be less judgemental" or "you are a burden because you ask too many questions”. Constructive feedback is more about how a person can do better rather than what they are doing wrong. If you want someone to do something better, you should tell them what better looks like. Ask a question to get a discussion rolling, to gain context, and then if you see room for improvement give declarative feedback to that effect. This creates an environment where people understand what success looks like instead of just feeling like they are unsuccessful.
 
